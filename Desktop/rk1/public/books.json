@@ -1,0 +1,67 @@
+[
+  {
+    "id": 0,
+    "title": "Берсерк забытого клана. Маги Аномалии Разлома",
+    "author": "Юрий Москаленко, Алекс Нагорный",
+    "image": "https://cv4.litres.ru/pub/c/elektronnaya-kniga/cover_415/57388941-uriy-moskalenko-berserk-zabytogo-klana-magi-anomalii-razloma.jpg",
+    "price": 710,
+    "rating": 3
+  },
+  {
+    "id": 1,
+    "title": "Ходячий замок",
+    "author": "Диана Уинн Джонс",
+    "image": "https://cv0.litres.ru/pub/c/elektronnaya-kniga/cover_415/133804-diana-uinn-dzhons-hodyachiy-zamok.jpg",
+    "price": 415,
+    "rating": 5
+  },
+  {
+    "id": 2,
+    "title": "Игра Эндера",
+    "author": "Орсон Скотт Кард",
+    "image": "https://cv0.litres.ru/pub/c/elektronnaya-kniga/cover_415/122405-orson-skott-kard-igra-endera.jpg",
+    "price": 464,
+    "rating": 4
+  },
+  {
+    "id": 3,
+    "title": "Воспламеняющая",
+    "author": "Стивен Кинг",
+    "image": "https://cv0.litres.ru/pub/c/elektronnaya-kniga/cover_415/23230509-stiven-king-vosplamenyauschaya.jpg",
+    "price": 741,
+    "rating": 3
+  },
+  {
+    "id": 4,
+    "title": "Занимательная математика. Комплексные числа",
+    "author": "Масаси Оучи",
+    "image": "https://cv7.litres.ru/pub/c/pdf-kniga/cover_415/44867677-masasi-ouchi-zanimatelnaya-matematika-kompleksnye-chisla-44867677.jpg",
+    "price": 317,
+    "rating": 1
+  },
+  {
+    "id": 5,
+    "title": "Рисуем аниме и мангу. Пошаговое руководство для начинающих",
+    "author": "София Ким",
+    "image": "https://cv5.litres.ru/pub/c/elektronnaya-kniga/cover_415/61645252-sofiya-kim-risuem-a-61645252.jpg",
+    "price": 254,
+    "rating": 0
+  },
+  {
+    "id": 6,
+    "title": "Последнее путешествие девочек. Том 1",
+    "author": "Цукумидзу",
+    "image": "https://cv6.litres.ru/pub/c/pdf-kniga/cover_415/63470761-cukumidzu-26888207-poslednee-puteshestvie-devochek-tom-1-63470761.jpg",
+    "price": 573,
+    "rating": 4
+  },
+  {
+    "id": 7,
+    "title": "На закат от Мангазеи",
+    "author": "Сергей Че",
+    "image": "https://cv5.litres.ru/pub/c/elektronnaya-kniga/cover_415/22972257-sergey-che-na-zakat-ot-mangazei-istoricheskiy-detektiv-s-elementami-misticheskoy-fantasmagorii.jpg",
+    "price": 246,
+    "rating": 0
+  }
+
+]
